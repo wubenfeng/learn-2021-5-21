@@ -1,0 +1,7 @@
+/* 我是reg.css的原始内容 */
+*{margin: 0;padding:0;}
+ul,ol,li{list-style: none;}
+
+/* 我是reg.css版本3的内容 */
+div{width: 100px;height: 100px;}
+

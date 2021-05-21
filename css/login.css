@@ -1,0 +1,7 @@
+/* 我是login.css的原始内容 */
+*{margin: 0;padding:0;}
+ul,ol,li{list-style: none;}
+a,a:hover,a:active{text-decoration: none;}
+
+/* 我是login.css版本3的内容 */
+div{width: 100px;height: 100px;}
